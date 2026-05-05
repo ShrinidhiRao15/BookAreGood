@@ -71,23 +71,20 @@ Perhaps the most unconventional concept: Campbell openly expressed **love** for 
 
 Campbell's framework forms a **reinforcing loop**:
 
-```mermaid
-graph TD
-    A["🔵 People First"] --> B["🟢 Build Trust"]
-    B --> C["🟡 Team First Culture"]
-    C --> D["🟠 Radical Candor + Caring"]
-    D --> E["🔴 Decisive Action"]
-    E --> F["🟣 Community & Belonging"]
-    F --> G["🟤 Love & Vulnerability"]
-    G --> A
-    
-    style A fill:#4285F4,stroke:#333,color:#fff
-    style B fill:#0F9D58,stroke:#333,color:#fff
-    style C fill:#F4B400,stroke:#333,color:#000
-    style D fill:#FF6D00,stroke:#333,color:#fff
-    style E fill:#DB4437,stroke:#333,color:#fff
-    style F fill:#7B1FA2,stroke:#333,color:#fff
-    style G fill:#795548,stroke:#333,color:#fff
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│                    Campbell's Reinforcing Loop                      │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  🔵 People First ──→ 🟢 Build Trust ──→ 🟡 Team First Culture    │
+│        ↑                │                  │                       │
+│        │                ↓                  ↓                       │
+│  🟤 Love & Vulnerability ←── 🟣 Community & Belonging             │
+│        │                │                  │                       │
+│        │                ↓                  ↓                       │
+│  └───── 🔴 Decisive Action ←── 🟠 Radical Candor + Caring ───────┘
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 Trust enables candor. Candor enables decisiveness. Decisiveness builds team confidence. Team confidence fosters community. Community deepens love. Love reinforces people-first thinking. The loop accelerates over time.
@@ -96,17 +93,20 @@ Trust enables candor. Candor enables decisiveness. Decisiveness builds team conf
 
 Campbell's approach to coaching followed a clear priority order:
 
-```mermaid
-graph TB
-    subgraph Priority["Campbell's Coaching Priority"]
-        direction TB
-        T["🏢 The Company"] --> TM["👥 The Team"]
-        TM --> I["👤 The Individual"]
-    end
-
-    style T fill:#1565C0,stroke:#333,color:#fff
-    style TM fill:#2E7D32,stroke:#333,color:#fff
-    style I fill:#E65100,stroke:#333,color:#fff
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│              Campbell's Coaching Priority Hierarchy                │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│                        🏢 The Company                               │
+│                              │                                       │
+│                              ↓                                       │
+│                        👥 The Team                                  │
+│                              │                                       │
+│                              ↓                                       │
+│                        👤 The Individual                             │
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 He would coach individuals to serve the team, and the team to serve the company. If an individual's needs conflicted with the team's health, the team won. If the team's preferences conflicted with the company's mission, the company won.
@@ -123,19 +123,28 @@ He would coach individuals to serve the team, and the team to serve the company.
 
 Campbell taught managers a specific rhythm:
 
-```mermaid
-flowchart LR
-    A["Staff Meetings\n(operational)"] --> B["1:1s\n(personal + professional)"]
-    B --> C["Skip-Level Meetings\n(ground truth)"]
-    C --> D["Trip Reports & Community\n(relationship building)"]
-    D --> E["Peer Feedback Loops\n(radical candor)"]
-    E --> A
-
-    style A fill:#4285F4,stroke:#333,color:#fff
-    style B fill:#0F9D58,stroke:#333,color:#fff
-    style C fill:#F4B400,stroke:#333,color:#000
-    style D fill:#7B1FA2,stroke:#333,color:#fff
-    style E fill:#DB4437,stroke:#333,color:#fff
+```
+┌─────────────────────────────────────────────────────────────────────┐
+│              The Manager's Operating System Rhythm                 │
+├─────────────────────────────────────────────────────────────────────┤
+│                                                                     │
+│  🔵 Staff Meetings (operational)                                    │
+│           │                                                        │
+│           ↓                                                        │
+│  🟢 1:1s (personal + professional)                                  │
+│           │                                                        │
+│           ↓                                                        │
+│  🟡 Skip-Level Meetings (ground truth)                              │
+│           │                                                        │
+│           ↓                                                        │
+│  🟣 Trip Reports & Community (relationship building)               │
+│           │                                                        │
+│           ↓                                                        │
+│  🔴 Peer Feedback Loops (radical candor)                           │
+│           │                                                        │
+│           └───────────────────────────────────────────────────────┘
+│                                                                     │
+└─────────────────────────────────────────────────────────────────────┘
 ```
 
 - **Staff meetings** should have a structure: operational updates first, then strategic topics, with the leader facilitating, not dominating.
