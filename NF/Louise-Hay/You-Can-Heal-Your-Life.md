@@ -76,12 +76,13 @@ For leaders and executives, the book matters because it reframes **human perform
 
 Louise Hay’s work rests on a **circular rather than linear** model of change:
 
-
+```mermaid
 flowchart LR
 A[Thought Patterns] --> B[Emotional States]
 B --> C[Behaviors]
 C --> D[Physical & Life Outcomes]
 D --> A
+```
 
 
 Negative cycles (e.g., self‑criticism → guilt → stress → illness) reinforce themselves unless consciously interrupted.
