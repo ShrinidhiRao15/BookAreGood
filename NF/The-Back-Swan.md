@@ -143,115 +143,77 @@ Respect uncertainty instead of explaining it away
 ### 5. Organization of the Book
 The book progresses from philosophical foundations to practical implications. It begins by challenging how humans think about knowledge and probability, then moves into statistical and cognitive errors. Finally, it applies these insights to finance, history, and real‑world decision‑making. Each section deepens the reader’s understanding of uncertainty and exposes the fragility of conventional thinking.
 
-### 6. Chapter‑Wise Breakdown
+## 6. Chapter‑Wise Breakdown
 
+1.  **Prologue – Umberto Eco’s Antilibrary**
+    *   Knowledge grows faster than what we know
+    *   Importance of unseen information
+    *   Respecting what we do not understand
 
-Prologue – Umberto Eco’s Antilibrary
+2.  **Chapter 1 – The Apprenticeship of an Empirical Skeptic**
+    *   Taleb’s intellectual background
+    *   Experience with randomness
+    *   Skepticism toward theory
 
-Knowledge grows faster than what we know
-Importance of unseen information
-Respecting what we do not understand
+3.  **Chapter 2 – Yevgenia’s Black Swan**
+    *   Definition of Black Swan events
+    *   Rare but transformative phenomena
+    *   Limits of expectation
 
+4.  **Chapter 3 – The Speculator and the Prostitute**
+    *   Asymmetry of outcomes
+    *   Hidden risks in stable income
+    *   Importance of payoff distribution
 
+5.  **Chapter 4 – One Thousand and One Days**
+    *   Turkey problem
+    *   False sense of security
+    *   Sudden collapse models
 
-Chapter 1 – The Apprenticeship of an Empirical Skeptic
+6.  **Chapter 5 – Confirmation Shmconfirmation!**
+    *   Confirmation bias
+    *   Filtering disconfirming evidence
+    *   Fragility of belief systems
 
-Taleb’s intellectual background
-Experience with randomness
-Skepticism toward theory
+7.  **Chapter 6 – The Narrative Fallacy**
+    *   Storytelling bias
+    *   Oversimplification of causality
+    *   Mistaking clarity for truth
 
+8.  **Chapter 7 – Living in the Antechamber of Hope**
+    *   Overestimation of skill
+    *   Underestimation of luck
+    *   Survivorship bias
 
+9.  **Chapter 8 – Giacomo Casanova’s Unfailing Luck**
+    *   Role of randomness in success
+    *   Long sequences of chance
+    *   Misinterpreting outcomes
 
-Chapter 2 – Yevgenia’s Black Swan
+10. **Chapter 9 – Too Much Information**
+    *   Noise vs. signal
+    *   Media distortion
+    *   Overreaction to data
 
-Definition of Black Swan events
-Rare but transformative phenomena
-Limits of expectation
+11. **Chapter 10 – The Scandal of Prediction**
+    *   Failure of economic forecasting
+    *   Expert overconfidence
+    *   Structural blindness
 
+12. **Chapter 11 – Epistemocracy, a Dream**
+    *   Limits of centralized knowledge
+    *   Distributed uncertainty
+    *   Policy implications
 
+13. **Chapter 12 – The Black Swan of Probability**
+    *   Fat tails
+    *   Non‑Gaussian distributions
+    *   Mathematical misunderstandings
 
-Chapter 3 – The Speculator and the Prostitute
+14. **Chapter 13 – The Fourth Quadrant**
+    *   Decision‑making under ignorance
+    *   Practical humility
+    *   Designing resilient systems
 
-Asymmetry of outcomes
-Hidden risks in stable income
-Importance of payoff distribution
-
-
-
-Chapter 4 – One Thousand and One Days
-
-Turkey problem
-False sense of security
-Sudden collapse models
-
-
-
-Chapter 5 – Confirmation Shmconfirmation!
-
-Confirmation bias
-Filtering disconfirming evidence
-Fragility of belief systems
-
-
-
-Chapter 6 – The Narrative Fallacy
-
-Storytelling bias
-Oversimplification of causality
-Mistaking clarity for truth
-
-
-
-Chapter 7 – Living in the Antechamber of Hope
-
-Overestimation of skill
-Underestimation of luck
-Survivorship bias
-
-
-
-Chapter 8 – Giacomo Casanova’s Unfailing Luck
-
-Role of randomness in success
-Long sequences of chance
-Misinterpreting outcomes
-
-
-
-Chapter 9 – Too Much Information
-
-Noise vs. signal
-Media distortion
-Overreaction to data
-
-
-
-Chapter 10 – The Scandal of Prediction
-
-Failure of economic forecasting
-Expert overconfidence
-Structural blindness
-
-
-
-Chapter 11 – Epistemocracy, a Dream
-
-Limits of centralized knowledge
-Distributed uncertainty
-Policy implications
-
-
-
-Chapter 12 – The Black Swan of Probability
-
-Fat tails
-Non‑Gaussian distributions
-Mathematical misunderstandings
-
-
-
-Chapter 13 – The Fourth Quadrant
-
-Decision‑making under ignorance
-Practical humility
-Designing resilient systems
+```
+```
