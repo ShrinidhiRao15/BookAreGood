@@ -104,6 +104,9 @@ Confidence --> Exposure
 Exposure --> Shock
 Shock --> Collapse
 ```
+
+***
+
 ### Knowledge vs. Ignorance
 The book emphasizes that information can increase error when it creates overconfidence. More data does not necessarily equal better foresight.
 Assumption:
