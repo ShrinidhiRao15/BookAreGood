@@ -130,6 +130,16 @@ Neuropuncture does not reject TCM—it **reinterprets it**.
 
 ### 🔄 Mechanism of Action Flow
 ```mermaid
+flowchart TD
+A[Needle Insertion] --> B[Peripheral Nerve Activation]
+B --> C[Signal Transmission to Spinal Cord]
+C --> D[Brain Processing]
+D --> E[Neurotransmitter Release]
+E --> F[Physiological Response]
+
+```
+
+```mermaid
 flowchart LR
 A[Needle Insertion] --> B[Peripheral Nerve Activation]
 B --> C[Signal Transmission to Spinal Cord]
